@@ -94,7 +94,7 @@ class myJavaProgram    // valid syntax, but discouraged
 Access Modifier	      Within Class	      Within Package	    Outside Package by subclass only	      Outside Package
   Private	                  Y	                  N	                           N	                             N
   Default	                  Y	                  Y	                           N	                             N
-  Protected	                Y	                  Y	                           Y	                             N
+  Protected	                  Y	                  Y	                           Y	                             N
   Public	                  Y	                  Y	                           Y	                             Y
 */
 
@@ -103,18 +103,18 @@ Access Modifier	      Within Class	      Within Package	    Outside Package by s
   Keywords or Reserved words are the words in a language that are used for some internal process or represent some predefined actions. These words are therefore 
   not allowed to use as variable names or objects. 
 
-abstract	      assert	      boolean	         break
-byte	           case	         catch	         char
+abstract	      assert	     boolean	       break
+byte	           case	         catch	           char
 class	          const	        continue	      default
-do	            double	        else	         enum
-extends	        final	        finally	         float
-for	            goto	          if	         implements
-import	        instanceof	    int	         interface
-long	          native	        new	          package
-private	        protected	     public	        return
+do	             double	          else	           enum
+extends	         final	         finally	       float
+for	              goto	           if	         implements
+import	        instanceof	       int	         interface
+long	          native	       new	          package
+private	        protected	     public	          return
 short	          static	       strictfp	       super
-switch	        synchronized	   this	         throw
-throws	        transient	       try	          void
+switch	        synchronized	   this	          throw
+throws	        transient	       try	           void
 volatile	      while
  */
 
