@@ -37,14 +37,14 @@ public class Datatype {
 
             Syntax: short shortVar;
             Size: 2 byte (16 bits)
-            Values: -32, 768 to 32, 767 (inclusive)
+            Values: -32,768 to 32,767 (inclusive)
             Default Value: 0
 
          * int -> It is a 32-bit signed two’s complement integer.
 
            Syntax: int intVar;
            Size: 4 byte ( 32 bits )
-           Values: -2, 147, 483, 648 to 2, 147, 483, 647 (inclusive)
+           Values: -2,147,483,648 to 2,147,483,647 (inclusive)
 
          * ! Note: The default value is ‘0’
 
@@ -56,7 +56,7 @@ public class Datatype {
 
            Syntax: long longVar;
            Size: 8 byte (64 bits)
-           Values: {-9, 223, 372, 036, 854, 775, 808} to {9, 223, 372, 036, 854, 775, 807} (inclusive)
+           Values: {-9,223,372,036,854,775,808} to {9,223,372,036,854,775,807} (inclusive)
 
          * ! Note: The default value is ‘0’.
 

@@ -1,6 +1,6 @@
 // This is a simple Java program.
 // FileName : "HelloWorld.java".
-// ava is one of the most popular and widely used programming languages and platforms. Java is fast, reliable, and secure. Java is used in every nook and corner from desktop to web applications, scientific supercomputers to gaming consoles, cell phones to the Internet.
+// java is one of the most popular and widely used programming languages and platforms. Java is fast, reliable, and secure. Java is used in every nook and corner from desktop to web applications, scientific supercomputers to gaming consoles, cell phones to the Internet.
 
 // Java is easy to learn, and its syntax is simple and easy to understand. It is based on C++ (so easier for programmers who know C++).
 
